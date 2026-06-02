@@ -38,6 +38,12 @@ Tongkat Pintar Pendeteksi Hambatan Menggunakan Sensor Ultrasonik Berbasis ESP32â
 
 ---
 
+## **PPT QR Code** ##
+
+
+---
+
+
 ## **Board Schematic** ##
 <img width="924" height="724" alt="image" src="https://github.com/user-attachments/assets/2f95b501-08fd-422f-b9b6-e43c54ad11ca" />
 
